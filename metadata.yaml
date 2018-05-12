@@ -1,0 +1,35 @@
+_repo: Narrative-of-the-Most-Remarkable-Events-Which-Occurred-In-and-Near-Leipzig--13-Immediately-Be__17595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shoberl, Frederic
+    aliases:
+    - Shoberl, Frederick
+    - Shoberl, F. (Frederic)
+    - Schoberl, Frederic
+    birthdate: 1775
+    deathdate: 1853
+    gutenberg_agent_id: '7482'
+    url: http://www.gutenberg.org/2009/agents/7482
+description: Preface (xvi p.) -- Narrative, &c. (104 p.) --Proceedings of the committee,
+  formed Jan. 1814, for relieving the distress in Germany (6 p.) --Subscriptions for
+  the relief of the distresses on the Continent ... ([2] p.).
+gutenberg_issued: '2006-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Germany (East)'
+- !lcsh 'Leipzig, Battle of, Leipzig, Germany, 1813'
+- !lcc 'DC'
+title: Narrative of the Most Remarkable Events Which Occurred in and near Leipzig
+  Immediately Before, During, and Subsequent to, the Sanguinary Series of Engagements
+  Between the Allied Armies of the French, from the 14th to the 19th October, 1813
+url: http://www.gutenberg.org/ebooks/17595
